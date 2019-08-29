@@ -6,6 +6,8 @@ This is a small algorithm, written in RAM, which can make it clear if a number i
 
 ## Requirements
 
+[Download](https://arbeitsplattform.bildung.hessen.de/fach/informatik/remasp.zip) the remasp Simulator
+
 ## How it works
 
 Run the Remasp.jar and then copy and paste this code there. 
