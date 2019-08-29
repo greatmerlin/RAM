@@ -2,9 +2,9 @@
 		STORE 1
 Start:		Load	1
 		Sub	#2
-		JZero	SchleifenEnde
+		JZero	EndOfLoop
 		Store	3
 		Store	1
 		Goto	Start
-SchleifenEnde:	Load	3
+EndOfLoop:	Load	3
 		End
